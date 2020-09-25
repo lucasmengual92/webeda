@@ -4,3 +4,4 @@ numpy==1.16.2
 matplotlib==2.2.3
 nbformat==4.4.0
 streamlit==0.67.1
+python-pptx==0.6.18
