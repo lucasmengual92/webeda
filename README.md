@@ -6,6 +6,8 @@ WEBEDA is a web based exploratory data analysis (EDA) app platform to create res
 
 Go to https://webeda.herokuapp.com/ and start using 😄🎉
 
+P.S. Currently on a phase of chnaging host back to 🔁 https://webeda.streamlit.app/
+
 ## Features
 
 - upload csv files upto 200MB
